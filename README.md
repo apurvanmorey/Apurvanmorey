@@ -51,4 +51,7 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
  </a> 
  </p>
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=apurvanmorey&show_icons=true" alt="apurvanmorey" /></p>
+ 
+<br/>
+<br/>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api?username=apurvanmorey&show_icons=true" alt="apurvanmorey" /></p>
