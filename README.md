@@ -54,4 +54,5 @@
  
 <br/>
 <br/>
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api?username=apurvanmorey&show_icons=true" alt="apurvanmorey" /></p>
+<!--
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api?username=apurvanmorey&show_icons=true" alt="apurvanmorey" /></p> -->
