@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurvanmorey" alt="apurvanmorey" /> </p>
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning everything 😅
 
 - 📫 You can reach me at **apurvanmorey@gmail.com**
 
