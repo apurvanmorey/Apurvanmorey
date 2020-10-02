@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 📫 How to reach me **apurvanmorey@gmail.com**
+- 📫 You can reach me at **apurvanmorey@gmail.com**
 
 <p align="center">
  <a href="https://getbootstrap.com" target="_blank"> 
