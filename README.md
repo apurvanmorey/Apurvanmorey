@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Apurvan Morey</h1>
 <p align="center">
-<a href="https://dev.to/apurvanmorey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="apurvanmorey" height="30" width="40" /></a>
-<a href="https://twitter.com/apurvanmorey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apurvanmorey" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/apurvanmorey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apurvanmorey" height="30" width="40" /></a>
-<a href="https://fb.com/apurvanmorey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="apurvanmorey" height="30" width="40" /></a>
-<a href="https://instagram.com/apurvanmorey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="apurvanmorey" height="30" width="40" /></a>
+<a href="https://dev.to/apurvanmorey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="apurvanmorey" height="20" width="20" /></a>
+<a href="https://twitter.com/apurvanmorey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apurvanmorey" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/apurvanmorey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apurvanmorey" height="30" width="20" /></a>
+<a href="https://fb.com/apurvanmorey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="apurvanmorey" height="20" width="20" /></a>
+<a href="https://instagram.com/apurvanmorey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="apurvanmorey" height="20" width="20" /></a>
 </p>
 <h3 align="center">A Final Year Computer Engineering Undergrad, just exploring the world of Web Development.</h3>
 
@@ -43,6 +43,7 @@
  <a href="https://reactjs.org/" target="_blank"> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
  <a href="https://sass-lang.com" target="_blank"> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+ </a> 
  </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apurvanmorey&show_icons=true" alt="apurvanmorey" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=apurvanmorey&show_icons=true" alt="apurvanmorey" /></p>
