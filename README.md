@@ -6,7 +6,7 @@
 <a href="https://fb.com/apurvanmorey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="apurvanmorey" height="30" width="40" /></a>
 <a href="https://instagram.com/apurvanmorey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="apurvanmorey" height="30" width="40" /></a>
 </p>
-<h3 align="center">A Final Year Computer Engineering Undergrad, just exploring the world of Web Development.</h3>
+<h3 align="center">Just exploring the world of Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurvanmorey" alt="apurvanmorey" /> </p>
 
