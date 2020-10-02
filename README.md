@@ -1,4 +1,11 @@
 <h1 align="center">Hi 👋, I'm Apurvan Morey</h1>
+<p align="center">
+<a href="https://dev.to/apurvanmorey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="apurvanmorey" height="30" width="40" /></a>
+<a href="https://twitter.com/apurvanmorey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apurvanmorey" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/apurvanmorey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apurvanmorey" height="30" width="40" /></a>
+<a href="https://fb.com/apurvanmorey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="apurvanmorey" height="30" width="40" /></a>
+<a href="https://instagram.com/apurvanmorey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="apurvanmorey" height="30" width="40" /></a>
+</p>
 <h3 align="center">A Final Year Computer Engineering Undergrad, just exploring the world of Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurvanmorey" alt="apurvanmorey" /> </p>
@@ -7,17 +14,7 @@
 
 - 📫 How to reach me **apurvanmorey@gmail.com**
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://dev.to/apurvanmorey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="apurvanmorey" height="30" width="40" /></a>
-<a href="https://twitter.com/apurvanmorey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apurvanmorey" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/apurvanmorey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apurvanmorey" height="30" width="40" /></a>
-<a href="https://fb.com/apurvanmorey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="apurvanmorey" height="30" width="40" /></a>
-<a href="https://instagram.com/apurvanmorey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="apurvanmorey" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
  <a href="https://getbootstrap.com" target="_blank"> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
  </a>
@@ -48,7 +45,4 @@
  <a href="https://sass-lang.com" target="_blank"> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
  </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurvanmorey&layout=compact" alt="apurvanmorey" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apurvanmorey&show_icons=true" alt="apurvanmorey" /></p>
