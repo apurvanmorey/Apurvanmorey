@@ -10,7 +10,7 @@
 
 <h3 align="left">Resume : </h3>
 <p>
-<a href="https://drive.google.com/file/d/1YZcUJBjXhusIuH5CfElOEpsRoChY-8ba/view?usp=drive_link" target="_blank"><img align="center" src="https://img.icons8.com/?size=48&id=23883&format=png" alt="Resume Apurvan Morey" height="30" width="35" /></a>
+<a href="https://drive.google.com/file/d/1YZcUJBjXhusIuH5CfElOEpsRoChY-8ba/view?usp=drive_link" target="_blank"><img align="center" src="https://img.icons8.com/?size=48&id=104082&format=png" alt="Resume Apurvan Morey" height="" width="" /></a>
 </p>
 
 <h3 align="left">Connect with me : </h3>
