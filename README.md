@@ -1,5 +1,5 @@
-<h1 align="">Hey👋 , I'm Apurvan</h1>
-<h3 align="center">A passionate frontend developer from India with 3+ years of experience building responsive, interactive web applications.</h3>
+<h1>Hey👋 , I'm Apurvan</h1>
+<h3 >A passionate frontend developer from India with 3+ years of experience building responsive, interactive web applications.</h3>
 
 <h3 align="left">About me :</h3>
 
